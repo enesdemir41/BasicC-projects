@@ -1,0 +1,22 @@
+C:\Users\enesd\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\enesd\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\enesd\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\enesd\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+C:\Users\enesd\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.SuggestedBindingRedirects.cache
+C:\Users\enesd\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\enesd\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\enesd\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\enesd\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\enesd\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\enesd\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\enesd\OneDrive\Desktop\Vucut Kitle indeksi\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\enesd\OneDrive\Desktop\Vucut Kitle indeksi\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\enesd\OneDrive\Desktop\Vucut Kitle indeksi\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\enesd\OneDrive\Desktop\Vucut Kitle indeksi\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+C:\Users\enesd\OneDrive\Desktop\Vucut Kitle indeksi\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.SuggestedBindingRedirects.cache
+C:\Users\enesd\OneDrive\Desktop\Vucut Kitle indeksi\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\enesd\OneDrive\Desktop\Vucut Kitle indeksi\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\enesd\OneDrive\Desktop\Vucut Kitle indeksi\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\enesd\OneDrive\Desktop\Vucut Kitle indeksi\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\enesd\OneDrive\Desktop\Vucut Kitle indeksi\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\enesd\OneDrive\Desktop\Vucut Kitle indeksi\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
