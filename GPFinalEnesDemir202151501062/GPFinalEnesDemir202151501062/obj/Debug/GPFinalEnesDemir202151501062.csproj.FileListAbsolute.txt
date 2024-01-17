@@ -1,0 +1,17 @@
+C:\Users\enesd\source\repos\GPFinalEnesDemir202151501062\GPFinalEnesDemir202151501062\bin\Debug\GPFinalEnesDemir202151501062.exe.config
+C:\Users\enesd\source\repos\GPFinalEnesDemir202151501062\GPFinalEnesDemir202151501062\bin\Debug\GPFinalEnesDemir202151501062.exe
+C:\Users\enesd\source\repos\GPFinalEnesDemir202151501062\GPFinalEnesDemir202151501062\bin\Debug\GPFinalEnesDemir202151501062.pdb
+C:\Users\enesd\source\repos\GPFinalEnesDemir202151501062\GPFinalEnesDemir202151501062\bin\Debug\Interop.WMPLib.dll
+C:\Users\enesd\source\repos\GPFinalEnesDemir202151501062\GPFinalEnesDemir202151501062\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\enesd\source\repos\GPFinalEnesDemir202151501062\GPFinalEnesDemir202151501062\obj\Debug\GPFinalEnesDemir202151501062.csproj.AssemblyReference.cache
+C:\Users\enesd\source\repos\GPFinalEnesDemir202151501062\GPFinalEnesDemir202151501062\obj\Debug\GPFinalEnesDemir202151501062.csproj.SuggestedBindingRedirects.cache
+C:\Users\enesd\source\repos\GPFinalEnesDemir202151501062\GPFinalEnesDemir202151501062\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\enesd\source\repos\GPFinalEnesDemir202151501062\GPFinalEnesDemir202151501062\obj\Debug\Interop.WMPLib.dll
+C:\Users\enesd\source\repos\GPFinalEnesDemir202151501062\GPFinalEnesDemir202151501062\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\enesd\source\repos\GPFinalEnesDemir202151501062\GPFinalEnesDemir202151501062\obj\Debug\GPFinalEnesDemir202151501062.csproj.ResolveComReference.cache
+C:\Users\enesd\source\repos\GPFinalEnesDemir202151501062\GPFinalEnesDemir202151501062\obj\Debug\GPFinalEnesDemir202151501062.Form1.resources
+C:\Users\enesd\source\repos\GPFinalEnesDemir202151501062\GPFinalEnesDemir202151501062\obj\Debug\GPFinalEnesDemir202151501062.Properties.Resources.resources
+C:\Users\enesd\source\repos\GPFinalEnesDemir202151501062\GPFinalEnesDemir202151501062\obj\Debug\GPFinalEnesDemir202151501062.csproj.GenerateResource.cache
+C:\Users\enesd\source\repos\GPFinalEnesDemir202151501062\GPFinalEnesDemir202151501062\obj\Debug\GPFinalEnesDemir202151501062.csproj.CoreCompileInputs.cache
+C:\Users\enesd\source\repos\GPFinalEnesDemir202151501062\GPFinalEnesDemir202151501062\obj\Debug\GPFinalEnesDemir202151501062.exe
+C:\Users\enesd\source\repos\GPFinalEnesDemir202151501062\GPFinalEnesDemir202151501062\obj\Debug\GPFinalEnesDemir202151501062.pdb
